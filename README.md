@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Didia Uchenna (KILLJOY)
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Open Source frontend project
+- 👋 Hello, I’m Didia Uchenna (KILLJOY) 
+- I'm a frontend web developer 
+- I'm a freelancer and I'm also open for collaborations 
+- Coding is my sport VS CODE is my play-ground
 - 📫 How to reach me https://linktr.ee/didiauche
 
 
