@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Didia Uchenna (KILLJOY)
-- 👀 I’m interested in Frontend Wed Development
+- 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Open Source frontend project
-- 📫 How to reach me www.twitter.com/didiauche
+- 📫 How to reach me https://linktr.ee/didiauche
 
 
 [![@didiauche's Holopin board](https://holopin.me/didiauche)](https://holopin.io/@didiauche)
