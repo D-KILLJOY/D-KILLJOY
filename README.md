@@ -1,10 +1,12 @@
- #👋 Hello, I’m Didia Uchenna (KILLJOY) 
+ # 👋 Hello, I’m Didia Uchenna (KILLJOY) 
  
-I'm a frontend web developer 
-I'm a freelancer and I'm also open for collaborations 
-Coding is my sport VS CODE is my play-ground
+## I'm a frontend web developer 
 
-you can reach me via https://linktr.ee/didiauche
+I'm a freelancer and I'm also open for collaborations 
+
+> Coding is my sport VS CODE is my play-ground
+
+ [Get in touch](https://linktr.ee/didiauche)
 
 
 [![@didiauche's Holopin board](https://holopin.me/didiauche)](https://holopin.io/@didiauche)
