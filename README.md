@@ -4,7 +4,7 @@
 
 I'm a freelancer and I'm also open for collaborations 
 
-> Coding is my sport VS CODE is my play-ground
+` Coding is my sport VS CODE is my play-ground`
 
  [Get in touch](https://linktr.ee/didiauche)
 
