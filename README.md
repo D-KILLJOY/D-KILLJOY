@@ -1,4 +1,4 @@
- <center> # 👋 Hello, I’m Didia Uchenna (KILLJOY) </center>
+ #  👋 Hello, I’m Didia Uchenna (KILLJOY) 
  
 ## I'm a frontend web developer 
 
