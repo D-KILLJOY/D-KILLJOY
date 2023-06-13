@@ -20,7 +20,6 @@
 - [💬 Get in Touch](mailto:didiauche@gmail.com)
   <br>
   <br> <br> <br> <br>
-  <br>
 
   <hr>
 
