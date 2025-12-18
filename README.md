@@ -53,8 +53,8 @@
 <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="40" height="40"/>
 <!-- <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> -->
-<!-- <img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="40" height="40"/> -->
 <!-- <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> -->
 </p>
 
