@@ -12,7 +12,7 @@
 
 - <p align="left"> <a href="https://twitter.com/didiauche" target="blank"><img src="https://img.shields.io/twitter/follow/didiauche?logo=twitter&style=for-the-badge" alt="didiauche" /></a> </p>
 
-- 🌱 I’m currently learning **NEXT.JS** and I'm currently growing my **[Youtube Channel](https://youtube.com/@frontendhive)**
+- 🌱 I’m currently learning **REACT** and I'm currently growing my **[Youtube Channel](https://youtube.com/@frontendhive)**
 
 - 💬 Ask me about **Frontend Web Development**
   
