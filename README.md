@@ -79,12 +79,6 @@
     
   </td>
 
-  <td align="center" width="85">
-<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  <br>
-  <p>JavaScript</p>
-    
-  </td>
 
   <td align="center" width="85">
 <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> 
@@ -100,6 +94,14 @@
 <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   <br>
   <p>Git</p>
+    
+  </td>
+
+  
+  <td align="center" width="85">
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+  <br>
+  <p>JavaScript</p>
     
   </td>
 
