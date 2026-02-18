@@ -221,7 +221,7 @@
 </td>
 <td>
 
-![d-killjoy's GitHub contributions](https://github.pumbas.net/api/contributions/d-killjoy)
+![Dev Killjoy's GitHub contributions](https://github.pumbas.net/api/contributions/d-killjoy)
 
 </td>
 </tr>
