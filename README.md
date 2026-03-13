@@ -80,17 +80,17 @@
   </td>
 
 
-
-  
-</tr>
-
-<tr>
   <td align="center" width="85">
 <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   <br>
   <p>Git</p>
     
   </td>
+  
+</tr>
+
+<tr>
+
 
   
   <td align="center" width="85">
