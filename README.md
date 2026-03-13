@@ -80,12 +80,7 @@
   </td>
 
 
-  <td align="center" width="85">
-<img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> 
-  <br>
-  <p>SCSS</p>
-    
-  </td>
+
   
 </tr>
 
